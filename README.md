@@ -12,7 +12,7 @@ I’m a Sr. Full Stack Software Engineer who is passionate about making error-fr
 ✅ MySQL / NoSQL / MongoDB<br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind <br>
 ✅ Waterfall / Agile software development process <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminstore&layout=compact) <br>
+<hr>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an E-commerce web application as a Senior full stack developer based on Express.js and Next.js.
