@@ -12,9 +12,8 @@ I’m a Sr. Full Stack Software Engineer who is passionate about making error-fr
 ✅ MySQL / NoSQL / MongoDB<br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind <br>
 ✅ Waterfall / Agile software development process <br>
-<hr>
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
 - 🔭 I’m currently working on an E-commerce web application as a Senior full stack developer based on Express.js and Next.js.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
