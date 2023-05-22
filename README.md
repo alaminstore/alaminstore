@@ -14,7 +14,7 @@ I’m a Sr. Full Stack Software Engineer who is passionate about making error-fr
 ✅ Waterfall / Agile software development process <br>
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on an E-commerce web application as a Senior full stack developer based on Express.js and Next.js.
+- 🔭 I’m currently working on an Multi-vendor E-commerce web application as a Senior full stack developer based on Express.js,laravel and Next.js with tailwindCss.
 - 🌱 I’m currently learning: Trying to learn of these knowing stuffs deeply.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
