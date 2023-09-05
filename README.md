@@ -8,8 +8,8 @@ I’m a Sr. Full Stack Software Engineer who is passionate about making error-fr
 ✅ JavaScript <br>
 ✅ Node Js, Express.js<br>
 ✅ React.js / Vue.js/ Next.js<br>
-✅ MySQL / NoSQL / MongoDB<br>
-✅ AWS S3 / Docker<br>
+✅ MySQL / NoSQL / MongoDB / Redis<br>
+✅ AWS S3 / Docker / RabbitMQ<br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind <br>
 ✅ Waterfall / Agile software development process <br>
 
