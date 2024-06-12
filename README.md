@@ -5,7 +5,7 @@ I’m a Sr. Full Stack Software Engineer who is passionate about making error-fr
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ PHP, Laravel <br> 
-✅ JavaScript <br>
+✅ TypeScript, JavaScript <br>
 ✅ Node Js, Express.js<br>
 ✅ React.js / Vue.js/ Next.js<br>
 ✅ MySQL / NoSQL / MongoDB / Redis<br>
