@@ -9,7 +9,7 @@ I’m a Sr. Full Stack Software Engineer who is passionate about making error-fr
 ✅ Node Js, Express.js, Nest.js<br>
 ✅ Ruby on rails<br>
 ✅ React.js / Vue.js/ Next.js<br>
-✅ MySQL / NoSQL / MongoDB / Cassandra / Redis<br>
+✅ MySQL / MongoDB / Cassandra / Redis<br>
 ✅ AWS S3 / Minio / Docker / RabbitMQ<br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind <br>
 ✅ Waterfall / Agile software development process <br>
