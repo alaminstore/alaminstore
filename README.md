@@ -6,16 +6,17 @@ I’m a Sr. Full Stack Software Engineer who is passionate about making error-fr
 ## 👨‍💻 Skills & Experiance: 
 ✅ PHP, Laravel <br> 
 ✅ TypeScript, JavaScript <br>
-✅ Node Js, Express.js<br>
+✅ Node Js, Express.js, Nest.js<br>
+✅ Ruby on rails<br>
 ✅ React.js / Vue.js/ Next.js<br>
-✅ MySQL / NoSQL / MongoDB / Redis<br>
-✅ AWS S3 / Minio/ Docker / RabbitMQ<br>
+✅ MySQL / NoSQL / MongoDB / Cassandra / Redis<br>
+✅ AWS S3 / Minio / Docker / RabbitMQ<br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind <br>
 ✅ Waterfall / Agile software development process <br>
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on an Multi-vendor E-commerce web application as a Senior full stack developer based on Express.js,laravel and Next.js with tailwindCss.
-- 🌱 I’m currently learning: Trying to learn of these knowing stuffs deeply.
+- 🌱 I’m currently learning: Trying to learn kubernetes & some cloud stuffs.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
