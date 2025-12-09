@@ -20,6 +20,5 @@ I'm always ready to work with new technologies as per project's requirements, ju
 Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: smalamin.dev@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Life is not a joke...
  
