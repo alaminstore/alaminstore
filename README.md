@@ -8,7 +8,7 @@ I'm always ready to work with new technologies as per project's requirements, ju
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ PHP, Laravel <br> 
-✅ TypeScript, JavaScript, TypeScript <br>
+✅ TypeScript, JavaScript<br>
 ✅ Node Js, Express.js, Nest.js<br>
 ✅ Ruby on rails<br>
 ✅ React.js / Vue.js/ Next.js<br>
