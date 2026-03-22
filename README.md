@@ -8,7 +8,7 @@ features in ambiguous environments.
 
 I’ve had the chance to work on applications ranging from small projects to large, complex systems. Along the way, I’ve learned from many talented seniors, and I’ve also had the opportunity to mentor juniors and support my colleagues whenever they were stuck. I’m comfortable working in multicultural environments, and my goal has always been to grow together with the team rather than just as an individual. I'm always ready to work with new technologies as per project's requirements, just need to learn and then ready to start contributions with these technologies.
 
-What I do:
+What I do:<br>
 ✔ Full-Stack Development
 ✔ Backend Systems
 ✔ MERN Stack
